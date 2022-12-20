@@ -41,5 +41,4 @@
 		Ok(().into())
 	}
 ```
-# 操作录屏
-<iframe height=498 width=500 src="https://user-images.githubusercontent.com/83388462/208645139-39611a74-1d1f-4d57-98df-131caff53031.mp4"></iframe>
+# [操作录屏](https://user-images.githubusercontent.com/83388462/208645139-39611a74-1d1f-4d57-98df-131caff53031.mp4)

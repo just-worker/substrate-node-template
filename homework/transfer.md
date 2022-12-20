@@ -25,5 +25,4 @@
 		}
 
 ```
-# 操作录屏
-<iframe height=491 width=500 src="https://user-images.githubusercontent.com/83388462/208645308-a5c882a6-12d3-46ac-a362-66c644430de9.mp4"></iframe>
+# [操作录屏](https://user-images.githubusercontent.com/83388462/208645308-a5c882a6-12d3-46ac-a362-66c644430de9.mp4)
